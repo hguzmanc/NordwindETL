@@ -13,4 +13,4 @@ cada dim con la tabla de hechos
 Nota: En la carga de cada dim se valida existencia de datos nuevos para cargarlos, y en la tabla de hechos se hace uso de un parámetro para ingresar la fecha desde, esta variable nos sirve para poder ejecutar 
 	  la carga de datos desde una fecha específica.
 	  
-	  También se carga 2 variables con scripts 1 para borrar los datos existentes en la fecha seleccionada para volver a cargarla y de esta manera no tengamos datos repetidos y la otra variable es la query que realizará la carga de datos en la fecha seleccionada
+También se carga 2 variables con scripts 1 para borrar los datos existentes en la fecha seleccionada para volver a cargarla y de esta manera no tengamos datos repetidos y la otra variable es la query que realizará la carga de datos en la fecha seleccionada
