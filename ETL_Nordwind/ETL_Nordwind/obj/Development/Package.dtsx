@@ -11,8 +11,8 @@
   DTS:LocaleID="3082"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="54"
-  DTS:VersionGUID="{63E02541-900C-49E2-9971-6553702821B7}">
+  DTS:VersionBuild="55"
+  DTS:VersionGUID="{D8F8AFBB-3A04-4916-9C4A-05863F802E40}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -623,21 +623,21 @@ where o.OrderDate &gt; ' 19900101'</property>
         <NodeLayout
           Size="176,42"
           Id="Package\ETL-h_orders\Destino de ADO NET"
-          TopLeft="437,330" />
+          TopLeft="429,275" />
         <EdgeLayout
           Id="Package\ETL-h_orders.Paths[Salida de origen de ADO NET]"
-          TopLeft="521.5,180">
+          TopLeft="517.5,180">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,150"
+              EndConnector="0,95"
               Start="0,0"
-              End="0,142.5">
+              End="0,87.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,142.5" />
+                    End="0,87.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
